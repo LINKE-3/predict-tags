@@ -8,6 +8,7 @@ dnspython==2.6.1
 email_validator==2.2.0
 fastapi==0.112.2
 fastapi-cli==0.0.5
+gunicorn #@ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_51vg37qcbj/croot/gunicorn_1720002508347/work
 h11==0.14.0
 httpcore==1.0.5
 httptools==0.6.1
